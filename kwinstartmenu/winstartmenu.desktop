@@ -1,9 +1,11 @@
 [Desktop Entry]
 Type=Service
 Name=KDED Windows Start Menu Module
+Name[nl]=KDED Windows-startmenumodule
 Name[uk]=Модуль меню «Старт» для KDED
 Name[x-test]=xxKDED Windows Start Menu Modulexx
 Comment=Shortcut icon support
+Comment[nl]=Ondersteuning voor pictogrammen
 Comment[uk]=Підтримка піктограм скорочень
 Comment[x-test]=xxShortcut icon supportxx
 X-KDE-ServiceTypes=KDEDModule

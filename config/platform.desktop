@@ -11,11 +11,14 @@ X-KDE-System-Settings-Parent-Category=advanced-user-settings
 X-KDE-Weight=110
 
 Name=Platform
+Name[nl]=Platform
 Name[uk]=Платформа
 Name[x-test]=xxPlatformxx
 Comment=Windows Platform Manager
+Comment[nl]=Windows platvormbeheerder
 Comment[uk]=Інструмент керування платформою Windows
 Comment[x-test]=xxWindows Platform Managerxx
 X-KDE-Keywords=Platform,Windows
+X-KDE-Keywords[nl]=Platform,Windows
 X-KDE-Keywords[uk]=Platform,Windows,платформа,віндоус,віндоуз,віндовс,віндовз
 X-KDE-Keywords[x-test]=xxPlatform,Windowsxx
