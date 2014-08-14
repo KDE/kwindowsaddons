@@ -1,7 +1,21 @@
 [Desktop Entry]
 Type=Service
 Name=KDED Windows Start Menu Module
+Name[cs]=Modul KDED pro startovní nabídku
+Name[nb]=KDED-modul for Windows-Start-meny
+Name[nds]=KDED-Moduul för't Windows-Startmenü
+Name[nl]=KDED Windows-startmenumodule
+Name[pt_BR]=Módulo do "Menu Inciar" do Windows para o KDED
+Name[uk]=Модуль меню «Старт» для KDED
+Name[x-test]=xxKDED Windows Start Menu Modulexx
 Comment=Shortcut icon support
+Comment[cs]=Podpora ikon zkratek
+Comment[nb]=Støtte for snarveisikoner
+Comment[nds]=Ünnerstütten för Link-Lüttbiller
+Comment[nl]=Ondersteuning voor pictogrammen
+Comment[pt_BR]=Suporte ao ícone de atalho
+Comment[uk]=Підтримка піктограм скорочень
+Comment[x-test]=xxShortcut icon supportxx
 X-KDE-ServiceTypes=KDEDModule
 X-KDE-Library=winstartmenu
 X-KDE-DBus-ModuleName=winstartmenu
