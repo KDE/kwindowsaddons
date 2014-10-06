@@ -21,7 +21,7 @@ find_package(Qt5 ${QT_MIN_VERSION} CONFIG REQUIRED COMPONENTS
 
 find_package(KF5 REQUIRED COMPONENTS
     KCMUtils
-    KDE4Support
+    KDELibs4Support
 )
 
 add_subdirectory( kwinshutdown )
