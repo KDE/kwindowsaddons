@@ -3,7 +3,7 @@ set(kcmplatform_SRCS platform.cpp
                      menuManager.cpp
 					 shellEdit.cpp
 					 )
-qt5_wrap_ui(kcmplatform_SRCS platform.ui 
+ki18n_wrap_ui(kcmplatform_SRCS platform.ui 
                                    shellEdit.ui)
 
 add_library(kcm_platform MODULE ${kcmplatform_SRCS})
