@@ -1,7 +1,6 @@
 [Desktop Entry]
 Name=KDE Shutdown
 Name[ar]=أطفئ كدي
-Name[ast]=KDE Shutdown
 Name[bg]=Изключване на KDE
 Name[bn]=কে.ডি.ই. শাটডাউন
 Name[bs]=Gašenje KDE‑a
@@ -67,7 +66,6 @@ Name[zh_CN]=KDE 关闭
 Name[zh_TW]=關閉 KDE
 Comment=kill running KDE applications and processes
 Comment[ar]=اقتل تطبيقات كدي وعمليّاتها
-Comment[ast]=amortia procesos y aplicaciones KDE n'execución
 Comment[bg]=убиване на работещите програми и процеси на KDE
 Comment[bs]=Ugasite sve KDE programe i procese u pogonu
 Comment[ca]=Mata totes les aplicacions i processos en execució del KDE
